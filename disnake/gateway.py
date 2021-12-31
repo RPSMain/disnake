@@ -396,7 +396,7 @@ class DiscordWebSocket:
                 "token": self.token,
                 "properties": {
                     "$os": sys.platform,
-                    "$browser": "disnake",
+                    "$browser": "Discord iOS",
                     "$device": "disnake",
                     "$referrer": "",
                     "$referring_domain": "",
